@@ -1,0 +1,6 @@
+content
+*.db
+.idea
+*.egg-info/
+dist/
+*.pyc
